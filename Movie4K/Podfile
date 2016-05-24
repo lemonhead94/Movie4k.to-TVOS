@@ -1,0 +1,17 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+
+use_frameworks!
+
+target 'Movie4K' do
+
+pod 'SwiftyJSON', '2.3.2'
+pod 'Alamofire', '3.4.0'
+pod 'HTMLReader', '0.9.6'
+pod 'Cosmos', '1.2.2'
+pod 'MarqueeLabel/Swift', '2.7.4'
+pod 'SVProgressHUD', :git => 'https://github.com/SVProgressHUD/SVProgressHUD.git'
+pod 'PromiseKit', '3.2.0'
+
+end
