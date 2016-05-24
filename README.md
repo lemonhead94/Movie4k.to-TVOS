@@ -1,7 +1,7 @@
 # Movie4k.to
 > A TVOS Application for the AppleTV 4 / tvOS 9.2 for the Website [Movie4k.to](www.movie4k.to)
 
-This is more "a prove of concept" than an actual app, as it's scraps the website for solely the links...
+This is more "a proof of concept" than an actual app, as it's scraps the website for solely the links...
 
 ## Screenshots
 ![Cinema Movies](https://github.com/lemonhead94/Movie4k.to-TVOS/blob/master/Screenshots/1_CinemaMovies.png)
