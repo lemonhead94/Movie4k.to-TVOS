@@ -4,7 +4,15 @@
 This is more "a prove of concept" than an actual app, as it's scraps the website for solely the links...
 
 ## Screenshots
+![Cinema Movies](https://github.com/lemonhead94/Movie4k.to-TVOS/blob/master/Screenshots/1_CinemaMovies.png)
+![Features Series](https://github.com/lemonhead94/Movie4k.to-TVOS/blob/master/Screenshots/2_FeaturedSeries.png)
+![Search](https://github.com/lemonhead94/Movie4k.to-TVOS/blob/master/Screenshots/3_Search.png)
+![Serie Preview Season](https://github.com/lemonhead94/Movie4k.to-TVOS/blob/master/Screenshots/4_Serie_Season.png)
+![Serie Preview Episode](https://github.com/lemonhead94/Movie4k.to-TVOS/blob/master/Screenshots/5_Serie_Episode.png)
+![Movie Preview](https://github.com/lemonhead94/Movie4k.to-TVOS/blob/master/Screenshots/6_MoviePreview.png)
 
+## Credits
+Thanks for the AppIcon [u/Thrizer](https://www.reddit.com/user/Thrizer) :smile:
 
 ## Prerequirements
 - API-Key from the [The Movie Database (TMDb)](https://www.themoviedb.org)
